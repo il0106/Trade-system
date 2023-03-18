@@ -10,8 +10,8 @@ This project started in the summer of 2021 and was initially a set of packages t
 ### backtest_for_arbitrage
 Backtesting for a robot trading a spread of two assets with hyperparameter settings using a genetic algorithm. Making use of such tools as backtrader, deap, tradetools.
 ### backtest_for_dudoladov
-
-### backtest_for_
-###
-
-
+Backtesting for the dudoladov's strategy from contest 'BPI' by MOEX.
+### backtest_for_mean_reversion
+Backtesting for the mean reversion strategy.
+### backtest_for_momentum
+Backtesting for the momentum strategy.
