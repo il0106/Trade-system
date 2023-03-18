@@ -1,1 +1,2 @@
-# trade-system
+# Trade-system
+## Purposes
